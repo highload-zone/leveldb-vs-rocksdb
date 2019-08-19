@@ -1,0 +1,19 @@
+{
+  "name": "integrity-uuid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js && du -d 1 -h | grep \".*db\" && rm -rf *db",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "benchmarkify": "~2.1.2",
+    "level-rocksdb": "~4.0.0",
+    "leveldown": "~5.1.1",
+    "uuid": "~3.3.3"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
