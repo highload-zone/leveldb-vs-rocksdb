@@ -10,7 +10,7 @@
   "dependencies": {
     "benchmarkify": "~2.1.2",
     "level-rocksdb": "~4.0.0",
-    "leveldown": "~5.2.1",
+    "leveldown": "~5.3.0",
     "uuid": "~3.3.3"
   },
   "keywords": [],
