@@ -10,7 +10,7 @@
     "prepublish": "npm run snyk-protect"
   },
   "dependencies": {
-    "benchmarkify": "~2.1.2",
+    "benchmarkify": "~3.0.0",
     "level-rocksdb": "~4.0.0",
     "leveldown": "~5.6.0",
     "uuid": "~3.4.0",
